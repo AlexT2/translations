@@ -60,14 +60,14 @@
                 "reminders" : "remindere",
                 "history" : "istoria magazinului"
             },
-            "news" : "noutati",
+            "news" : "noutăti",
             "modes" : "moduri",
             "randomiser" : "randomizator",
             "about" : {
                 "dropdown" : "despre",
                 "about" : "despre fnbr.co",
                 "privacy" : "politică de confidențialitate",
-                "donate" : "Doneaza",
+                "donate" : "Donează",
                 "discord" : "Discord",
                 "twitter" : "Twitter"
             },
